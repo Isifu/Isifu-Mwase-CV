@@ -179,4 +179,4 @@ Customer Service & Support
 
 
 ## Conclusion
-By integrating SAST, SCA, and IaC scanning practices into the DevSecOps pipeline, the project aims to enhance the security posture of the running applications in AWS, reducing vulnerabilities, and ensure compliance throughout the software development lifecycle.
+Concurrently, leading IT Security operations at Quantum Security as a DevSecOps/AI Engineer Lead has honed my leadership abilities and commitment to service excellence, particularly in "Shifting-Security-Left." These experiences, supported by multiple certifications in Networking, Cloud, Digital Forensics, Cyber Security, and Data Protection, reflect my dedication to integrating IT security expertise with real-world applications.
